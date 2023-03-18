@@ -29,7 +29,7 @@
 ---
 
 <!-- About the Project -->
-## About  School
+## About E.O School Management System
 
 E.O School Management System API is a REST API which enables school administrators to register and manage student data on the PythonAnywhere-powered web app. CRUD operations can be carried out on the data.
 
