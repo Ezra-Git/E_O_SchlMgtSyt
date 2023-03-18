@@ -229,7 +229,7 @@ LinkedIn - https://www.linkedin.com/in/ezra-ogianyo/ <br/>
 Twitter - [@Ezra__o](https://twitter.com/Ezra__O) <br/>
 Email - ezraogianyo@gmail.com
 
-Project Link: [E.O School Management System API]()
+Project Link: [E.O School Management System API](https://github.com/Ezra-Git/E_O_SchlMgtSyt)
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
